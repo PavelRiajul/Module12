@@ -1,0 +1,9 @@
+.container{
+border: 1px solid red;
+}
+.row{
+border: 2px solid black;
+}
+.col{
+    border: 2px solid rgb(48, 48, 131);
+}

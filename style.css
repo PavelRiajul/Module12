@@ -1,22 +1,6 @@
 .container{
-    border: 1px solid red;
+    border: 2px solid red;
 }
-.row{
-    border: 1px solid blue;
+.purple{
+    background-color: purple;
 }
-.col{
-    border: 1px solid black;
-}
-.pink{
-    background-color:pink;
-}
-.blue{
-    background-color:blue;
-}
-.yello{
-    background-color:yellow;
-}
-.red{
-    background-color: red;
-}
-

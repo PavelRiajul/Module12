@@ -1,9 +1,21 @@
 .container{
-border: 1px solid red;
+    border: 1px solid red;
 }
 .row{
-border: 2px solid black;
+    border: 1px solid blue;
 }
 .col{
-    border: 2px solid rgb(48, 48, 131);
+    border: 1px solid black;
+}
+.pink{
+    background-color:pink;
+}
+.blue{
+    background-color:blue;
+}
+.yello{
+    background-color:yellow;
+}
+body{
+    font-size: 1em;
 }
